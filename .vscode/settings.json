@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onFocusChange",
+    "workbench.editor.autoLockGroups": {
+        "default": true
+    },
+    "workbench.colorTheme": "Default High Contrast"
+}
