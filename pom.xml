@@ -50,4 +50,37 @@
             <version>4.8.1</version>
         </dependency>
     </dependencies>
+      <description>
+  <url>
+  <inceptionYear>
+
+    <licenses>
+        <license>
+            <name>
+            <url>
+            <distribution>
+        </license>
+    </licenses>
+    
+   <developers>
+        <developer>
+            <id>
+            <name>
+            <email>
+            <url>
+            <timezone>
+            <properties>
+                <skype>
+            </properties>
+        </developer>
+    </developers>
+<plugin>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>3.8.0</version>
+         <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+        </plugin>
+
 </project>
